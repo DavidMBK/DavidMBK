@@ -8,3 +8,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=ffffff&background=00000000&width=600&lines=Hi,+I'm+a+Developer{{erase:9}}Entrepreneur{{erase:12}}Innovator{{erase:10}}Self-starter&repeat=true)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=ffffff&background=00000000&width=600&lines=Hi,+I'm+a+Developer%7B%7Berase:9%7D%7DEntrepreneur%7B%7Berase:12%7D%7DInnovator%7B%7Berase:10%7D%7DSelf-starter&repeat=true)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I'm+a+Developer;Hi,+I'm+an+Entrepreneur;Hi,+I'm+an+Innovator;Hi,+I'm+a+Self-starter&repeat=true)
