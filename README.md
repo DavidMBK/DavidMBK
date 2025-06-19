@@ -2,11 +2,10 @@
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-| [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DavidMBK%20✦&width=800&height=400)](https://github.com/Akshay090/svg-banners) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-username) | [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tuo-username) |
-|---|---|---|
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DavidMBK%20✦&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+ 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DavidMBK%20✦&width=800&height=400)](https://github.com/Akshay090/svg-banners) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
