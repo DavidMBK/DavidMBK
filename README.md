@@ -2,10 +2,15 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DavidMBK%20✦&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-## 🚀 Progetti in Sviluppo
 
-| Progetto             | Release      |
+## 🚀 Projects in Development
+
+| Project              | Release      |
 |----------------------|--------------|
-| Progetto Vuzix       | Coming soon  |
-| Progetto TelegramBot | Coming soon  |
-| Progetto Learnify    | Coming soon  |
+| [Vuzix](link)        | Coming soon  |
+| TelegramBot Project  | Coming soon  |
+| Learnify Project     | Coming soon  |
+
+
+
+| [Progetto Vuzix] | Coming soon |
