@@ -7,9 +7,9 @@
 
 | Project              | Release      |
 |----------------------|--------------|
-| [Vuzix]()        | Coming soon  |
-| TelegramBot Project  | Coming soon  |
-| Learnify Project     | Coming soon  |
+| [Vuzix](https://github.com/DavidMBK)        | Coming soon  |
+| [TelegramBot](https://github.com/DavidMBK)   | Coming soon  |
+| [Learnify](https://github.com/DavidMBK)     | Coming soon  |
 
 
 
