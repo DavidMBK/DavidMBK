@@ -15,5 +15,5 @@
 | Project              | Release      |
 |----------------------|--------------|
 | [Vuzix](https://github.com/DavidMBK)        | Coming soon  |
-| [TelegramBot](https://github.com/DavidMBK)   | Coming soon  |
+| [MiraiStudio](https://github.com/DavidMBK)   | Coming soon  |
 | [Learnify](https://github.com/DavidMBK)     | Coming soon  |
