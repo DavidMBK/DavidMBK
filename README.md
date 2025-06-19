@@ -7,7 +7,7 @@
 
 | Project              | Release      |
 |----------------------|--------------|
-| [Vuzix](link)        | Coming soon  |
+| [Vuzix]()        | Coming soon  |
 | TelegramBot Project  | Coming soon  |
 | Learnify Project     | Coming soon  |
 
