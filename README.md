@@ -12,8 +12,8 @@
 
 ## 🚀 Projects in Development
 
-| Project              | Release      |
-|----------------------|--------------|
-| [Vuzix](https://github.com/DavidMBK)        | Coming soon  |
-| [MiraiStudio](https://github.com/DavidMBK)   | Coming soon  |
-| [Learnify](https://github.com/DavidMBK)     | Coming soon  |
+| Project              | Release      | Description |
+|----------------------|--------------|-------------| 
+| [Vuzix](https://github.com/DavidMBK)        | Coming soon  |  AI-Healthcare with smart glasses|  
+| [MiraiStudio](https://github.com/DavidMBK)  | Coming soon  |  TelegramBot for generating/uploading/planning/monetize automatizated|
+| [Learnify](https://github.com/DavidMBK)     | Coming soon  |  Website for smart learning|
