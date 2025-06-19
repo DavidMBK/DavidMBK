@@ -15,5 +15,5 @@
 | Project              | Release      | Description |
 |----------------------|--------------|-------------| 
 | [Vuzix](https://github.com/DavidMBK)        | Coming soon  |  AI-Healthcare with smart glasses|  
-| [MiraiStudio](https://github.com/DavidMBK)  | Coming soon  |  TelegramBot for generating/uploading/planning/monetize automatizated|
+| [MiraiStudio](https://github.com/DavidMBK)  | Coming soon  |  TelegramBot for generating/uploading/planning/monetize Youtube Shorts automatically|
 | [Learnify](https://github.com/DavidMBK)     | Coming soon  |  Website for smart learning|
