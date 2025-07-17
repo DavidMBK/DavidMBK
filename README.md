@@ -15,7 +15,7 @@
 | Project              | Release      | Description |
 |----------------------|--------------|-------------| 
 | [Vuzix](https://github.com/DavidMBK)        | Coming soon  |  AI-Healthcare with smart glasses|  
-| [MiraiStudio](https://github.com/DavidMBK)  | Coming soon  |  TelegramBot for generating/uploading/planning/monetize Youtube Shorts automatically|
+| [MiraiStudio](https://github.com/DavidMBK)  | Coming soon  |  Website for generating/uploading/planning/monetize Youtube/Tiktok Shorts automatically, even for editing with AI (Post and Video)|
 | [MindQuest](https://github.com/DavidMBK)     | Coming soon  |  Website for smart learning|
 | [C.V Editor](https://github.com/DavidMBK)     | Coming soon  |  Website for C.V Editing and cover letter|
 | [Sentinel](https://github.com/DavidMBK)     | Coming soon  | Military approach for guided and strategic decision-making based on public data (Flutter Based)|
