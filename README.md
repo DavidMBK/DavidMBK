@@ -19,3 +19,5 @@
 | [MindQuest](https://github.com/DavidMBK)     | Coming soon  |  Website for smart learning|
 | [C.V Editor](https://github.com/DavidMBK)     | Coming soon  |  Website for C.V Editing and cover letter|
 | [Sentinel](https://github.com/DavidMBK)     | Coming soon  | [Military approach (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence)  for guided and strategic decision-making based on public data (Flutter Based)|
+
+I don't bypass systems. I make them irrelevant.
