@@ -20,18 +20,24 @@
 | [C.V Editor](https://github.com/DavidMBK)     | Coming soon  |  Website for C.V Editing and cover letter|
 | [Sentinel](https://github.com/DavidMBK)     | Coming soon  | [Military approach (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence)  for guided and strategic decision-making based on public data (Flutter Based)|
 
-<div align="center" style="margin: 40px 0; font-family: 'Helvetica Neue', Arial, sans-serif;">
+<blockquote style="
+  margin: 50px auto; 
+  max-width: 600px; 
+  font-family: 'Georgia', serif; 
+  font-style: italic; 
+  font-weight: 600; 
+  font-size: 1.8em; 
+  color: #444; 
+  border-left: 6px solid #e63946; 
+  padding-left: 20px;
+  line-height: 1.4;
+  text-align: center;
+  background: #f9f9f9;
+  box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
+  ">
+  
+  I don't break rules.<br>
+  <strong>I create what makes them <span style="color: #e63946;">irrelevant.</span></strong>
+  
+</blockquote>
 
-  <h1 style="font-weight: 900; font-size: 3.2em; letter-spacing: 0.1em; color: #222;">
-    I <span style="color: #e63946;">DON'T BREAK</span> RULES.
-  </h1>
-
-  <h3 style="font-style: italic; font-weight: 600; font-size: 1.8em; margin-top: -10px; color: #555;">
-    I CREATE WHAT MAKES THEM
-  </h3>
-
-  <h2 style="font-weight: 900; font-size: 3em; margin-top: -5px; color: #1d3557; text-transform: uppercase; text-shadow: 2px 2px #f1faee;">
-    IRRELEVANT.
-  </h2>
-
-</div>
