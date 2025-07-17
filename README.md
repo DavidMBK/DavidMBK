@@ -27,17 +27,18 @@
   font-style: italic; 
   font-weight: 600; 
   font-size: 1.8em; 
-  color: #444; 
+  color: #222; 
   border-left: 6px solid #e63946; 
   padding-left: 20px;
   line-height: 1.4;
   text-align: center;
-  background: #f9f9f9;
-  box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
+  background: #fff;
+  box-shadow: 2px 4px 10px rgba(230, 57, 70, 0.3);
   ">
   
   I don't break rules.<br>
-  <strong>I create what makes them <span style="color: #e63946;">irrelevant.</span></strong>
+  <strong style="color: #e63946;">I create what makes them <span style="text-transform: uppercase;">irrelevant.</span></strong>
   
 </blockquote>
+
 
