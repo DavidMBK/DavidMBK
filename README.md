@@ -18,4 +18,4 @@
 | [MiraiStudio](https://github.com/DavidMBK)  | Coming soon  |  Website for generating/uploading/planning/monetize Youtube/Tiktok Shorts automatically, even for editing with AI (Post and Video)|
 | [MindQuest](https://github.com/DavidMBK)     | Coming soon  |  Website for smart learning|
 | [C.V Editor](https://github.com/DavidMBK)     | Coming soon  |  Website for C.V Editing and cover letter|
-| [Sentinel](https://github.com/DavidMBK)     | Coming soon  | Military approach [OSINT]([https://github.com/DavidMBK](https://en.wikipedia.org/wiki/Open-source_intelligence))  for guided and strategic decision-making based on public data (Flutter Based)|
+| [Sentinel](https://github.com/DavidMBK)     | Coming soon  | Military approach [OSINT](https://github.com/DavidMBK](https://en.wikipedia.org/wiki/Open-source_intelligence)  for guided and strategic decision-making based on public data (Flutter Based)|
