@@ -20,6 +20,9 @@
 | [C.V Editor](https://github.com/DavidMBK)     | Coming soon  |  Website for C.V Editing and cover letter|
 | [Sentinel](https://github.com/DavidMBK)     | Coming soon  | [Military approach (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence)  for guided and strategic decision-making based on public data (Flutter Based)|
 
-<div align="center" style="margin: 40px 0; font-size: 1.5em; font-weight: bold; font-family: 'Helvetica Neue', sans-serif;">
-I don't break rules.<br>I build what makes them obsolete.
+<div align="center">
+
+# I don't break rules.  
+**I create what makes them <em>irrelevant</em>.**
+
 </div>
